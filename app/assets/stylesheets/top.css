@@ -26,5 +26,7 @@
         .topPage .listWrapper .list_header_action .fa-pen, .topPage .listWrapper .list_header_action .fa-trash {
           font-size: 18px;
           color: #8c8c8c; }
+        .topPage .listWrapper .list_header .fa-trash {
+          margin-right: 10px; }
 
 /*# sourceMappingURL=top.css.map */
