@@ -1,0 +1,10 @@
+.carddetailPage .cardContents {
+  margin: 60px auto 0;
+  max-width: 600px; }
+  .carddetailPage .cardContents_title h2 {
+    font-size: 22px; }
+  .carddetailPage .cardContents_title, .carddetailPage .cardContents_memo, .carddetailPage .cardContents_listStatus {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 30px; }
+
+/*# sourceMappingURL=show.css.map */
