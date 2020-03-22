@@ -22,5 +22,7 @@
         text-decoration: none; }
         .carddetailPage .cardContents_btnArea > a.edit_btn:hover {
           opacity: .7; }
+      .carddetailPage .cardContents_btnArea > a.delete_btn {
+        margin-top: 20px; }
 
 /*# sourceMappingURL=show.css.map */

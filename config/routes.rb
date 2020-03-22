@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   devise_for :users
   root 'top#index'
   
-  resources :list, only: %i(new create edit update destroy) do
-    resources :card, only: %i(new create show edit update)
+  resources :list, except: %i(index) do
+    resources :card, expect: %i(index)
   end
 end
